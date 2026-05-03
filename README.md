@@ -34,3 +34,20 @@ against division by zero.
 1. Make sure you have Java JDK installed (version 8 or higher)
 2. Compile the source file:
 ```bash
+   javac Calculation.java
+```
+3. Run the application:
+```bash
+   java Calculation
+```
+
+## What I Learned
+
+- Building event-driven Java GUIs with Swing
+- Handling user input safely with exception-based validation
+- Ensuring the UI thread runs properly via the Event Dispatch Thread
+- Designing clean user feedback with dialog boxes for error states
+
+---
+
+Part of my IT learning journey at the Academy of Interactive Technology (AIT) — see more at [github.com/Lmg15186](https://github.com/Lmg15186)
